@@ -1,0 +1,8 @@
+html,
+body {
+  height: 100%;
+}
+
+.bg-custom {
+  background-color: #f2f2f2; /* replace with your preferred color */
+}
